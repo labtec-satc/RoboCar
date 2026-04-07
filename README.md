@@ -83,14 +83,12 @@ npm run dev
 
 Se tudo ocorreu como o idealizado, o terminal mostrará algo parecido com:
 
+<!-- Se esse link não pegar, deixo como easter egg -->
 ![Aplicativo executado][exec-app]
 
 ### 6. Pé na Tábua
 
-Meu presente de despedidad é a seguinte "pérola":
-
-<!-- Tive que usar essa tag para limitar o tamanho do GIF -->
-<img src="./Exemplos/carro-mov.gif" height=350/>
+![carro-mov.gif][carro-mov]
 
 <!-- Links -->
 [Itens-access-point]: https://i.postimg.cc/VsRKYvG8/itens-ap.jpg
@@ -104,4 +102,4 @@ Meu presente de despedidad é a seguinte "pérola":
 [Git]: https://github.com/labtec-satc/RoboCar.git
 [Rede-Labtec]: https://i.postimg.cc/445WJyLC/conexao-rede.jpg
 [exec-app]: https://i.postimg.cc/pVZs2rGb/exec-app.jpg
-[carro-mov]: https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGY5enhzbWQ3bHpwcmQ2bGtvbGtqaXo2NTdjd2RoYm1tNnBidWFteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xusl3h1l1H5IVp64S7/giphy.gif
+[carro-mov]: https://i.postimg.cc/fLSdFwHG/carro-mov.gif
