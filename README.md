@@ -83,11 +83,11 @@ npm run dev
 
 Se tudo ocorreu como o idealizado, o terminal mostrará algo parecido com:
 
-<!-- Se esse link não pegar, deixo como easter egg -->
 ![Aplicativo executado][exec-app]
 
 ### 6. Pé na Tábua
 
+<!-- Se esse link não pegar, deixo como easter egg -->
 ![carro-mov.gif][carro-mov]
 
 <!-- Links -->
