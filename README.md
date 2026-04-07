@@ -25,8 +25,6 @@ Assim ficará se o _access point_ estiver ligado:
 
 ![Access point ligado][Access-point-ligado]
 
-**PS.:** não preciso dizer que o alimentador deve estar conectado a uma tomada capaz de ligá-lo, certo?
-
 > [!NOTE]
 > O _access point_ não é obrigatório, mas garante um endereço de IP constante.
 
@@ -91,18 +89,19 @@ Se tudo ocorreu como o idealizado, o terminal mostrará algo parecido com:
 
 Meu presente de despedidad é a seguinte "pérola":
 
+<!-- Tive que usar essa tag para limitar o tamanho do GIF -->
 <img src="./Exemplos/carro-mov.gif" height=350/>
 
 <!-- Links -->
-[Itens-access-point]: ./Exemplos/itens-ap.jpg
-[Cabo-de-alimentação-no-AP]: ./Exemplos/conexao-ap1.jpg
-[Cabo-de-alimentação-ligada-ao-alimentador-do-AP]: ./Exemplos/conexao-ap2.jpg
-[Cabo-LAN-no-alimentador]: ./Exemplos/conexao-ap3.jpg
-[Cabo-LAN-ligada-a-uma-porta-de-rede-ethernet]: ./Exemplos/conexao-ap4.jpg
-[Access-point-ligado]: ./Exemplos/ligado-rot.jpg
-[Raspberry-Pi-ligado]: ./Exemplos/ligado-car.jpg
+[Itens-access-point]: https://i.postimg.cc/VsRKYvG8/itens-ap.jpg
+[Cabo-de-alimentação-no-AP]: https://i.postimg.cc/90Jb1gR1/conexao-ap1.jpg
+[Cabo-de-alimentação-ligada-ao-alimentador-do-AP]: https://i.postimg.cc/sxwmKHQc/conexao-ap2.jpg
+[Cabo-LAN-no-alimentador]: https://i.postimg.cc/KjJfQpkJ/conexao-ap3.jpg
+[Cabo-LAN-ligada-a-uma-porta-de-rede-ethernet]: https://i.postimg.cc/NFpDbC9D/conexao-ap4.jpg
+[Access-point-ligado]: https://i.postimg.cc/Wpn52zWT/ligado-ap.jpg
+[Raspberry-Pi-ligado]: https://i.postimg.cc/8kHZ1cKV/ligado-car.jpg
 [Backend]: ./Backend/
 [Git]: https://github.com/labtec-satc/RoboCar.git
-[Rede-Labtec]: ./Exemplos/conexao-rede.jpg
-[exec-app]: ./Exemplos/exec-app.jpg
-[carro-mov]: ./Exemplos/carro-mov.gif
+[Rede-Labtec]: https://i.postimg.cc/445WJyLC/conexao-rede.jpg
+[exec-app]: https://i.postimg.cc/pVZs2rGb/exec-app.jpg
+[carro-mov]: https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGY5enhzbWQ3bHpwcmQ2bGtvbGtqaXo2NTdjd2RoYm1tNnBidWFteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xusl3h1l1H5IVp64S7/giphy.gif
