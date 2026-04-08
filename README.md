@@ -85,8 +85,7 @@ Se tudo ocorreu como o esperado, o terminal mostrará algo parecido com:
 
 ## 6. Pé na Tábua
 
-<!-- Se esse link não pegar, deixo como easter egg -->
-![carro-mov.gif][carro-mov]
+![carro-mov](https://github.com/user-attachments/assets/1ac49945-8174-4335-9538-0e286c6497ff)
 
 <!-- Links -->
 [Itens-access-point]: https://i.postimg.cc/VsRKYvG8/itens-ap.jpg
