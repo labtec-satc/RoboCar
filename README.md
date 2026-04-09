@@ -52,7 +52,7 @@ O _access point_ gerar√° uma rede _Wi-Fi_, na qual o _Raspberry Pi_ se conectar√
 
 **Wi-Fi**
 - **Nome:** SATC_LABTEC 
-- **Senha:** labtec2025
+- **Senha:** Labtec_2025
 
 ![Rede Labtec][Rede-Labtec]
 
