@@ -1,0 +1,13 @@
+[Unit]
+Description=Servidor WebSocket do Carro Remoto
+After=network.target
+
+[Service]
+User=jhoni
+WorkingDirectory=/home/jhoni/Desktop/Carro_remoto
+ExecStart=/usr/bin/python3 -m Server.server
+Restart=always
+StandardOutput=journal
+StandardError=journal
+[Install]
+WantedBy=multi-user.target
